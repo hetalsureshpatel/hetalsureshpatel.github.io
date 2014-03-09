@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-03-08 18:06:54
 <!---categories: jekyll update -->
+tags: [sample post, readability]
 share: true
 comments: true
 ---
