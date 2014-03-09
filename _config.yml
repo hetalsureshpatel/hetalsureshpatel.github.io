@@ -4,7 +4,8 @@ logo:
 disqus_shortname: donhetguru
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://don.het.guru#http://localhost:4000
+url:              http://don.het.guru
+#http://localhost:4000
 
 # Owner/author information
 owner:
