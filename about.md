@@ -11,7 +11,7 @@ image:
 ---
 I am a .NET developer who has worked cross fat clients, web & mobile all using .NET stack. In recent years I have embraced the software craftmenship manifesto.
 
-This has lead me to try out new platforms and languages. Which has definitely influance me in starting blogging.
+This has lead me to try out new platforms and languages. Which has definitely influence me in starting blogging.
 
 Currently working at Marks & Spencer's. Previously had worked in a startup [Sanona](http://www.sanona.com), pay per view Bollywood streaming. 
 

@@ -14,7 +14,7 @@ __[Zan a friend of mine][zmarkan]__ introduced me to something called [Jekyll][j
 
 This was all possible because GitHub now provide users with free hosting, they call it [GitHub Pages][github-pages]. Once you follow the instructions from the [Jekyll][jekyll-doc] site. It becomes trivial if don't mind getting your hands dirty with coding. Saying that I spent most of my time googling as there is a lot of help out there, especially when it came to picking my theme.
 
-If you are a windows user, like I am. You get the distinct feeling that Jekyll style does take getting used too. I would say persevere becasue it is with it. Viewed in a different way, you are exposing your self to a different development environment. Working on real world problem that beats any text book examples.
+If you are a windows user, like I am. You get the distinct feeling that Jekyll style does take getting used too. I would say persevere because it is with it. Viewed in a different way, you are exposing your self to a different development environment. Working on real world problem that beats any text book examples.
 
 [github-pages]: http://pages.github.com
 [jekyll]:    	http://jekyllrb.com
