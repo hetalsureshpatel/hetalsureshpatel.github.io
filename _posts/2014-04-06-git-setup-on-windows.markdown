@@ -35,7 +35,7 @@ I have been using Git now for nearly a year. In that time I have tried many tool
 
    * __ahead = log --stat origin/master..HEAD__ : Check what commits have not been pushed to remote branch.
    * __newpush = push -u origin HEAD__: Push a local branch to remote server.
-   * __tagpush = push --tag__: Push a newly created tag to remote server.
+   * __tagpush = push --tags__: Push a newly created tag to remote server.
 
 Would love hear what other people have for using Git on windows.
 
